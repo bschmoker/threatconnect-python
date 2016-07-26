@@ -21,3 +21,5 @@ api_secret_key = <API SECRET KEY>
 # api base url - ENTER API BASE URL (e.g. https://api.threatconnect.com OR https://my.threatconnect.com/api)
 #
 api_base_url = https://api.threatconnect.com
+
+api_result_limit = 500
